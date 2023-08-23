@@ -1,1 +1,1 @@
-# PIAIC-Q2-AI-Assignments
+# Artificial Intelligence Projects-Q2-AI-Assignments
